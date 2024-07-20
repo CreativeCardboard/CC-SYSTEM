@@ -1,5 +1,4 @@
 # CC-SYSTEM
-A repositiry for the Creative Cardboard system
 Creative Cardboard, is a standardised system crafted from cardboard, allowing children to cut out predefined shapes and recombine them into various new forms. This system aims to nurture creativity and problem-solving skills in children. The instructions for creating these shapes will be accessible through a dedicated website or app, specifically designed for children from underprivileged backgrounds around the world. These children may not have access to expensive creative toys and games but possess ample time, imagination, and waste cardboard readily available to them.
 
 The platform is not just about providing instructions, it is about fostering a global community of young creators. Creative Cardboard would serve as a vibrant community platform where children can share their unique creations, comment on each other's work, and connect with peers from different parts of the world. This interaction will encourage a sense of belonging and mutual inspiration, enhancing the creative experience.
